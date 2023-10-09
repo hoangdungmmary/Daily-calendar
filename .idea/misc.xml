@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AppAndroid/CalendarTutorialAndroidStudio-DailyCalendar/app/src/main/res/drawable-anydpi/create.xml" value="0.1" />
+        <entry key="..\:/AppAndroid/CalendarTutorialAndroidStudio-DailyCalendar/app/src/main/res/drawable-anydpi/day.xml" value="0.1" />
+        <entry key="..\:/AppAndroid/CalendarTutorialAndroidStudio-DailyCalendar/app/src/main/res/drawable-anydpi/month.xml" value="0.1" />
+        <entry key="..\:/AppAndroid/CalendarTutorialAndroidStudio-DailyCalendar/app/src/main/res/drawable-anydpi/setting.xml" value="0.1" />
+        <entry key="..\:/AppAndroid/CalendarTutorialAndroidStudio-DailyCalendar/app/src/main/res/drawable/calendar_bg.xml" value="0.1" />
+        <entry key="..\:/AppAndroid/CalendarTutorialAndroidStudio-DailyCalendar/app/src/main/res/drawable/daily_bg.xml" value="0.1" />
+        <entry key="..\:/AppAndroid/CalendarTutorialAndroidStudio-DailyCalendar/app/src/main/res/drawable/daily_bottom.xml" value="0.1" />
+        <entry key="..\:/AppAndroid/CalendarTutorialAndroidStudio-DailyCalendar/app/src/main/res/drawable/ic_add_black_24dp.xml" value="0.1" />
+        <entry key="..\:/AppAndroid/CalendarTutorialAndroidStudio-DailyCalendar/app/src/main/res/drawable/text_bg.xml" value="0.1" />
+        <entry key="..\:/AppAndroid/CalendarTutorialAndroidStudio-DailyCalendar/app/src/main/res/layout/activity_daily_calendar.xml" value="0.1" />
+        <entry key="..\:/AppAndroid/CalendarTutorialAndroidStudio-DailyCalendar/app/src/main/res/layout/activity_event_edit.xml" value="0.16666666666666666" />
+        <entry key="..\:/AppAndroid/CalendarTutorialAndroidStudio-DailyCalendar/app/src/main/res/layout/activity_main.xml" value="0.1796875" />
+        <entry key="..\:/AppAndroid/CalendarTutorialAndroidStudio-DailyCalendar/app/src/main/res/layout/activity_week_view.xml" value="0.16666666666666666" />
+        <entry key="..\:/CalendarTutorialAndroidStudio-DailyCalendar/app/src/main/res/drawable/daily_bottom.xml" value="0.2405" />
+        <entry key="..\:/CalendarTutorialAndroidStudio-DailyCalendar/app/src/main/res/layout/activity_daily_calendar.xml" value="0.1" />
+        <entry key="..\:/CalendarTutorialAndroidStudio-DailyCalendar/app/src/main/res/layout/activity_event_edit.xml" value="0.1" />
+        <entry key="..\:/CalendarTutorialAndroidStudio-DailyCalendar/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/CalendarTutorialAndroidStudio-DailyCalendar/app/src/main/res/layout/activity_new_even_acitivity.xml" value="0.259375" />
+        <entry key="..\:/CalendarTutorialAndroidStudio-DailyCalendar/app/src/main/res/layout/activity_setting.xml" value="0.259375" />
+        <entry key="..\:/CalendarTutorialAndroidStudio-DailyCalendar/app/src/main/res/layout/activity_user.xml" value="0.259375" />
+        <entry key="..\:/CalendarTutorialAndroidStudio-DailyCalendar/app/src/main/res/layout/activity_week_view.xml" value="0.1" />
+        <entry key="..\:/CalendarTutorialAndroidStudio-DailyCalendar/app/src/main/res/layout/calendar_cell.xml" value="0.1" />
+        <entry key="..\:/CalendarTutorialAndroidStudio-DailyCalendar/app/src/main/res/layout/event_cell.xml" value="0.14130434782608695" />
+        <entry key="..\:/CalendarTutorialAndroidStudio-DailyCalendar/app/src/main/res/layout/hour_cell.xml" value="0.1" />
+        <entry key="..\:/LTTBDT/CalendarTutorialAndroidStudio-DailyCalendar/CalendarTutorialAndroidStudio-DailyCalendar/app/src/main/res/layout/activity_daily_calendar.xml" value="0.14130434782608695" />
+        <entry key="..\:/LTTBDT/CalendarTutorialAndroidStudio-DailyCalendar/CalendarTutorialAndroidStudio-DailyCalendar/app/src/main/res/layout/activity_event_edit.xml" value="0.14130434782608695" />
+        <entry key="..\:/LTTBDT/CalendarTutorialAndroidStudio-DailyCalendar/CalendarTutorialAndroidStudio-DailyCalendar/app/src/main/res/layout/activity_main.xml" value="0.14130434782608695" />
+        <entry key="..\:/LTTBDT/CalendarTutorialAndroidStudio-DailyCalendar/CalendarTutorialAndroidStudio-DailyCalendar/app/src/main/res/layout/activity_week_view.xml" value="0.14130434782608695" />
+        <entry key="..\:/LTTBDT/CalendarTutorialAndroidStudio-DailyCalendar/CalendarTutorialAndroidStudio-DailyCalendar/app/src/main/res/layout/calendar_cell.xml" value="0.14130434782608695" />
+        <entry key="..\:/LTTBDT/CalendarTutorialAndroidStudio-DailyCalendar/CalendarTutorialAndroidStudio-DailyCalendar/app/src/main/res/layout/event_cell.xml" value="0.14130434782608695" />
+        <entry key="..\:/LTTBDT/CalendarTutorialAndroidStudio-DailyCalendar/CalendarTutorialAndroidStudio-DailyCalendar/app/src/main/res/layout/hour_cell.xml" value="0.14130434782608695" />
+        <entry key="..\:/LTTBDT/CalendarTutorialAndroidStudio-DailyCalendar/app/src/main/res/layout/event_cell.xml" value="0.14130434782608695" />
+        <entry key="..\:/Users/caltheduck/AndroidStudioProjects/CalendarTutorialAndroidStudioDaily/app/src/main/res/layout/activity_daily_calendar.xml" value="0.3375" />
+        <entry key="..\:/Users/caltheduck/AndroidStudioProjects/CalendarTutorialAndroidStudioDaily/app/src/main/res/layout/activity_main.xml" value="0.3375" />
+        <entry key="..\:/Users/caltheduck/AndroidStudioProjects/CalendarTutorialAndroidStudioDaily/app/src/main/res/layout/activity_week_view.xml" value="0.3375" />
+        <entry key="..\:/Users/caltheduck/AndroidStudioProjects/CalendarTutorialAndroidStudioDaily/app/src/main/res/layout/event_cell.xml" value="0.3375" />
+        <entry key="..\:/Users/caltheduck/AndroidStudioProjects/CalendarTutorialAndroidStudioDaily/app/src/main/res/layout/hour_cell.xml" value="0.3375" />
+        <entry key="..\:/laptrinh/CalendarTutorialAndroidStudio-DailyCalendar/CalendarTutorialAndroidStudio-DailyCalendar/app/src/main/res/drawable-anydpi/ic_action_name.xml" value="0.1" />
+        <entry key="..\:/laptrinh/CalendarTutorialAndroidStudio-DailyCalendar/CalendarTutorialAndroidStudio-DailyCalendar/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="..\:/laptrinh/CalendarTutorialAndroidStudio-DailyCalendar/CalendarTutorialAndroidStudio-DailyCalendar/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/laptrinh/CalendarTutorialAndroidStudio-DailyCalendar/CalendarTutorialAndroidStudio-DailyCalendar/app/src/main/res/layout/activity_daily_calendar.xml" value="0.22146739130434784" />
+        <entry key="..\:/laptrinh/CalendarTutorialAndroidStudio-DailyCalendar/CalendarTutorialAndroidStudio-DailyCalendar/app/src/main/res/layout/activity_event_edit.xml" value="0.16757246376811594" />
+        <entry key="..\:/laptrinh/CalendarTutorialAndroidStudio-DailyCalendar/CalendarTutorialAndroidStudio-DailyCalendar/app/src/main/res/layout/activity_main.xml" value="0.16757246376811594" />
+        <entry key="..\:/laptrinh/CalendarTutorialAndroidStudio-DailyCalendar/CalendarTutorialAndroidStudio-DailyCalendar/app/src/main/res/layout/activity_week_view.xml" value="0.16757246376811594" />
+        <entry key="..\:/laptrinh/CalendarTutorialAndroidStudio-DailyCalendar/CalendarTutorialAndroidStudio-DailyCalendar/app/src/main/res/layout/calendar_cell.xml" value="0.1" />
+        <entry key="..\:/laptrinh/CalendarTutorialAndroidStudio-DailyCalendar/CalendarTutorialAndroidStudio-DailyCalendar/app/src/main/res/layout/event_cell.xml" value="0.16757246376811594" />
+        <entry key="..\:/laptrinh/CalendarTutorialAndroidStudio-DailyCalendar/CalendarTutorialAndroidStudio-DailyCalendar/app/src/main/res/layout/hour_cell.xml" value="0.16757246376811594" />
+        <entry key="..\:/laptrinh/CalendarTutorialAndroidStudio-DailyCalendar/CalendarTutorialAndroidStudio-DailyCalendar/app/src/main/res/layout/index_login.xml" value="0.17798913043478262" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
